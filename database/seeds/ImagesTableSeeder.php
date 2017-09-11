@@ -15,14 +15,14 @@ class ImagesTableSeeder extends Seeder
     {
         $faker = Faker::create();
         $imagesLinks = array(
-            "http://angular.app/img/1gal.jpg",
-            "http://angular.app/img/2gal.jpg",
-            "http://angular.app/img/3gal.jpg",
-            "http://angular.app/img/4gal.jpg",
-            "http://angular.app/img/5gal.jpg",
-            "http://angular.app/img/6gal.jpg",
-            "http://angular.app/img/7gal.jpg",
-            "http://angular.app/img/8gal.jpg"
+            "http://angular.app/images/1gal.jpg",
+            "http://angular.app/images/2gal.jpg",
+            "http://angular.app/images/3gal.jpg",
+            "http://angular.app/images/4gal.jpg",
+            "http://angular.app/images/5gal.jpg",
+            "http://angular.app/images/6gal.jpg",
+            "http://angular.app/images/7gal.jpg",
+            "http://angular.app/images/8gal.jpg"
         );
 
         foreach($imagesLinks as $imagesLink)
