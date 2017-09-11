@@ -6,7 +6,7 @@
 Homestead.json
 Homestead.yaml
 .env
-/public/img/*
+/public/images/
 /storage/fonts/
 /logs
 /config/database.php
